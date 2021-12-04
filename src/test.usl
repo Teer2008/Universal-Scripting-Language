@@ -1,0 +1,4 @@
+mode: baseLang {
+    out: Hallo
+    out: Test    
+}
